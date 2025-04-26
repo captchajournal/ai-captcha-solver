@@ -54,9 +54,10 @@ CaptchaSonic combines **speed**, **affordability**, and **precision** through **
 
 | Service         | Website                         | Image |
 |-----------------|---------------------------------|-------|
-| noCaptchaAI     | [noCaptchaAI.com](https://noCaptchaAI.com) | ![noCaptchaAI](https://raw.githubusercontent.com/captchajournal/captcha_solver/refs/heads/main/best%20captcha%20solver/nocaptchaai.png) |
+| noCaptchaAI     | [noCaptchaAI.com](https://noCaptchaAI.com) | ![noCaptchaAI](https://raw.githubusercontent.com/captchajournal/captcha_solver/refs/heads/main/best%20captcha%20solver/nocaptchaai.jpg) |
 | CapSolver       | [CapSolver.com](https://www.capsolver.com/) | ![CapSolver](https://raw.githubusercontent.com/captchajournal/captcha_solver/refs/heads/main/best%20captcha%20solver/capsolver.jpg) |
 | CaptchaSonic    | [CaptchaSonic.com](https://captchasonic.com/) | ![CaptchaSonic](https://raw.githubusercontent.com/captchajournal/captcha_solver/refs/heads/main/best%20captcha%20solver/captchasonic.png) |
+
 
 ---
 
